@@ -1,0 +1,16 @@
+
+.chat{
+	position:absolute;
+	top:320px;
+	left:320px;
+width:700px;
+	height:430px;
+}
+
+	
+
+body{
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
